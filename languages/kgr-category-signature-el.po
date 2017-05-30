@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KGR Category Signature\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-30 21:45+0000\n"
+"PO-Revision-Date: 2017-05-30 21:48+0000\n"
+"Last-Translator: constracti <constracti@gmail.com>\n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: kgr-category-signature.php:29
+msgid "Signature"
+msgstr "Υπογραφή"
+
+#: kgr-category-signature.php:33
+msgid ""
+"Each post belonging to this category will have its content appended with the "
+"signature above."
+msgstr ""
+"Στο περιεχόμενο κάθε δημοσίευσης που ανήκει σε αυτή την κατηγορία θα "
+"προστεθεί η παραπάνω υπογραφή."
+
+#. Name of the plugin
+msgid "KGR Category Signature"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Appends a signature to the content of each post belonging to a category."
+msgstr ""
+"Προσθέτει μία υπογραφή στο περιεχόμενο κάθε δημοσίευσης μιας κατηγορίας."
+
+#. URI of the plugin
+msgid "https://github.com/constracti/kgr-category-signature"
+msgstr ""
+
+#. Author of the plugin
+msgid "constracti"
+msgstr ""
